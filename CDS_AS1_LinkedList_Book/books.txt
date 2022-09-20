@@ -1,0 +1,5 @@
+B01        | The noon   | 10         | 0          | 5.20      
+B02        | River      | 5          | 0          | 4.30      
+B05        | Physics    | 7          | 0          | 15.40     
+B07        | Biology    | 11         | 0          | 12.20     
+B04        | Southern   | 9          | 0          | 5.20       
